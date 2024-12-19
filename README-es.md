@@ -1,4 +1,4 @@
-- # Literalura - Desafío Back-end del Programa ONE
+# Literalura - Desafío Back-end del Programa ONE
 
   ## Descripción del proyecto
 
