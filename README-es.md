@@ -31,10 +31,7 @@
   - Intellij Community (opcional): https://www.jetbrains.com/idea/download
 
   ### Dependencias de Spring usadas:
-
-  - Lombok
-  - Spring Web
-  - Spring Boot DevTools
+  
   - Spring Data JPA
   - PostgreSQL Driver
 
