@@ -31,9 +31,6 @@ Nesta implementação, também trabalhamos a persistência de dados em um banco 
 - Intellij Community (opcional): https://www.jetbrains.com/idea/download
 - Dependências do Spring usadas:
 
-  - Lombok
-  - Spring Web
-  - Spring Boot DevTools
   - Spring Data JPA
   - PostgreSQL Driver
 
